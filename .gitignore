@@ -1,0 +1,17 @@
+# Mac system files (Crucial)
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon files created when custom icons are added to folders
+Icon?
+
+# Thumbnails and system indexes
+._*
+.Spotlight-V100
+.Trashes
+
+# Common text editor and office temporary files
+*.tmp
+*.swp
+~*
